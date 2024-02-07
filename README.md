@@ -1,20 +1,20 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá! Me chamo Vinícius Eugênio, eu trabalho nos bastidores do site, o famoso <strong>backend</strong>.<br>
-  Atualmente, estou estudando e procuro realizar projetos pessoais para estar sempre adquirindo novas experiências.
+  Hey! My name is Vinícius Eugênio, and I am a programmer that works behind the scenes of the websites, or the well-known <strong>back-end</strong>.<br>
+  Currently, I am studying and I'm always developing personal projects to be evolving every day and acquiring new experiences.
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Python</strong>
+  🦄 Programming languages: <strong>Python</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Django</strong>
+  💼 Frameworks: <strong>Django</strong>
 </p>
 
 <p align="left">
-  💌 Caso queira, você pode entrar em contato comigo aqui: ⤵️
+  💌 If you want to, feel free to contact me here: ⤵️
 </p>
 
 <p align="left">
